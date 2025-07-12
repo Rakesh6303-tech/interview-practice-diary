@@ -52,8 +52,8 @@ Client (Postman or Frontend)  <---> Backend (Spring Boot App)  <----> Database (
 
 2. Explain the flow like this:
 
-“When the user sends a request, like adding an employee, the request first reaches the Controller in Spring Boot. 
-   The Controller sends it to the Service layer, where business logic is handled. 
+--->When the user sends a request, like adding an employee, the request first reaches the Controller in Spring Boot. 
+       The Controller sends it to the Service layer, where business logic is handled. 
         From there, it goes to the Repository layer, which interacts with the MySQL database to save or fetch data.
 
 🔹 Then mention the key features:
