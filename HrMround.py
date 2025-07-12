@@ -6,6 +6,9 @@
     ("రాబోయే ఐదు సంవత్సరాలలో, నేను ఒక బలమైన మరియు నమ్మకమైన డెవలపర్‌గా ఎదగాలని ఆశిస్తున్నాను, ప్రాజెక్టులను నాయకత్వం వహిస్తూ, బాధ్యత తీసుకుంటూ, 
 బృందాలను గైడ్ చేయగల వ్యక్తిగా మారాలని కోరుకుంటున్నాను.అలాగే, మేనేజ్మెంట్ బాధ్యతలు తీసుకోవాలనుకుంటున్నాను — నా బృందం నన్ను నమ్మదగినవాడిగా భావించి,
 తెలివైన, సమర్థవంతమైన పరిష్కారాలు మరియు స్పష్టమైన దిశను అందించగల నాయకుడిగా చూస్తే గర్వంగా ఉంటుంది.")
+                                           (OR)
+   I want To be A strong & Realiable Developers and lead project as an Manager, and be someone the team can depend on for smarter solutions
+                                          
 
 2) What is Your Strengths?
   * I'm a Self Motivated Person, Quick Learner, and adaptable to new Environments.
@@ -39,3 +42,27 @@
 7) If you are a Manager How Manage?
    * I would Focus on Clear Communication , Team Work and respect I would make Sure EveryOne Understand their Tasks and Goals. 
       I'd listen to my Team's ideas and supportd Them When They need help as Belive Happy & Motivated Team Always Work Better.
+
+8) Short Term Goal?
+    My STG is to get a job where i can learn & Grow as A Developer
+
+9) Long Term Goal?
+    My LTG is to become an expert in my field & Take on LeaderShip Roles.
+
+10) Describe a situation where you showed Leadership?
+    when my team was confused during a task, I stepped up, divided the work clearly, & motivated everyone, 
+    we finished the task smoothly as a result.
+
+11)  Tell Me About a Time You Had to Meet a Tight Deadline?
+    I planned my tasks, avoided distractions, and focused on completing high-priority work first with proper,  
+    Time Management I was able the Deadline Successully.
+
+12)  Do You Have Any Questions?
+     Yes I'd Love to know more about the kind of projects the team is working? 
+     what a typical day looks like for a Developer in this Role?
+     How would you describe the company culture?
+
+13) Are You Open To Relocation (or) Working in Shifts?
+     Yes, Im open to relocation and working in shifts if the role Demands it.
+     I Believe flexibility is Important early in a carrer to learn & Grow".
+    
