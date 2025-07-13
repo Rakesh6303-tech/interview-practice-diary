@@ -19,7 +19,7 @@ Intro of Project
 ---->On the backend, I used Spring Boot with Spring Data JPA to handles the database communication. 
        I created RESTful APIs to perform CRUD operations, which are consumed by the React frontend.
 
----->All the data is stored in a MySQL database, and I ensured smooth API integration and data flow between front end and back end.
+---->All the data is stored in a MySQL database, and I ensured smooth API integration (SAI) and data flow between front end and back end.
 
 ---->From this project, I learned how to work with layered architecture, handle real-time API communication, 
        and manage both frontend and backend development independently.
