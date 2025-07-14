@@ -65,4 +65,8 @@
 13) Are You Open To Relocation (or) Working in Shifts?
      Yes, Im open to relocation and working in shifts if the role Demands it.
      I Believe flexibility is Important early in a carrer to learn & Grow".
-    
+
+14) How do you resolve conflicts among team members?
+    "I handle team conflicts by staying calm and listening to all sides without bias.
+    I focus on understanding the root cause, encourage open communication, and guide the team toward a solution that aligns with our common goal. 
+    I believe resolving issues respectfully leads to better teamwork and productivity."
