@@ -32,10 +32,13 @@ This project helped me understand real-world backend development and database ha
 Optional (if they ask follow-up):
 
 > “If I had more time, I would add input validations, login authentication, and role-based access for better security.”
+-----------------------------------------------------------------------------------------------------------------------------------------------------
 
+Challenges Faced During Project :
+. Integrating with FrontEnd & Backend
+. I Resolved it with by ensuring that the API were in proper JSON Format & Handled Issues using @CrossOrgin In Spring Boot
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------
-
 
 Explanation in Board 
 Start with this intro:
