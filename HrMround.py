@@ -74,3 +74,6 @@
 15) How do you motivate your team especially during high pressure situations
     "During high-pressure situations, I keep the team focused by breaking tasks into manageable parts, setting clear priorities, and maintaining a positive mindset. 
     I encourage and support my teammates, celebrate small wins, and remind them of the bigger goal to keep motivation high.
+
+16)  If you were a TL how do you support and motivate ?
+     "As a team leader, I focus on three core areas to support and motivate my team: communication, ownership, and growth."
