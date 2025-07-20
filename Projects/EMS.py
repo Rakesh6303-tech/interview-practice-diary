@@ -17,7 +17,7 @@ Intro of Project
        Each employee record is displayed in a table format, and users can interact with buttons to update or delete records.
 
 ---->On the backend, I used Spring Boot with Spring Data JPA to handles the database communication. 
-       I created RESTful APIs to perform CRUD operations, which are consumed by the React frontend.
+       I created RESTful APIs to perform CRUD operations.
 
 ---->All the data is stored in a MySQL database, and I ensured smooth API integration (SAI) and data flow between front end and back end.
 
