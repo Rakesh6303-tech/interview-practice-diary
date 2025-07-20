@@ -22,7 +22,7 @@
 ---------------------------------------------     
 // Code Backed Logic 
 
-   impot pandas as pd
+   import pandas as pd
    import joblib
    # Load Saved Model & scalar
    Model = joblib.load('random-forest=model.pkl')
