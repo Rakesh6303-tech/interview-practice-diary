@@ -1,7 +1,4 @@
 1) Where Do You See YourSelf After 5 Years ?
-   -- "In the next five years, I see myself growing into a strong and reliable developer who can lead projects, take ownership, and guide teams. 
-      I also aim to take on managerial responsibilities — becoming someone my team can truly depend on for smarter, efficient solutions and clear direction."
-                                                      (OR)
       I see my self in a LeaderShip Role Where I can Leverage My Technical Skills & Experience to Mentor Junior Developers.
     ("రాబోయే ఐదు సంవత్సరాలలో, నేను ఒక బలమైన మరియు నమ్మకమైన డెవలపర్‌గా ఎదగాలని ఆశిస్తున్నాను, ప్రాజెక్టులను నాయకత్వం వహిస్తూ, బాధ్యత తీసుకుంటూ, 
 బృందాలను గైడ్ చేయగల వ్యక్తిగా మారాలని కోరుకుంటున్నాను.అలాగే, మేనేజ్మెంట్ బాధ్యతలు తీసుకోవాలనుకుంటున్నాను — నా బృందం నన్ను నమ్మదగినవాడిగా భావించి,
