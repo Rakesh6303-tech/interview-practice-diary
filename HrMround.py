@@ -12,7 +12,7 @@
 
 2) What is Your Strengths?
   * I'm a Self Motivated Person, Quick Learner, and adaptable to new Environments.
-  * Im very much confident &  Dedicated to My work and I have more Patience.
+  //* Im very much confident &  Dedicated to My work and I have more Patience.
   
 3) what is Your Weakness?
   * Sometimes I focus too much on perfection, even when the work is already good enough. 
