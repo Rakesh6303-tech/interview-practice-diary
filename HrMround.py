@@ -41,7 +41,7 @@
 
 7) If you are a Manager How Manage?
    * I would Focus on Clear Communication , Team Work and respect I would make Sure EveryOne Understand their Tasks and Goals. 
-      I'd listen to my Team's ideas and supportd Them When They need help as Belive Happy & Motivated Team Always Work Better.
+      I'd listen to my Team's ideas and supported Them When They need help as Belive Happy & Motivated Team Always Work Better.
 
 8) Short Term Goal?
     My STG is to get a job where i can learn & Grow as A Developer
