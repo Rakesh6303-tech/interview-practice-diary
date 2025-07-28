@@ -12,7 +12,8 @@
 3) what is Your Weakness?
   * Sometimes I focus too much on perfection, even when the work is already good enough. 
     I'm learning to balance quality with efficiency by managing priorities and deadlines better."
-   ( "కొన్నిసార్లు పనిని చాలా పర్ఫెక్ట్ చేయాలని ఎక్కువ సమయం కేటాయిస్తాను. ఇప్పుడు నేను ప్రాధాన్యతలు, గడువులపై దృష్టి పెట్టి సమర్థవంతంగా పని చేయడం నేర్చుకుంటున్నాను.)
+   ( "కొన్నిసార్లు పనిని చాలా పర్ఫెక్ట్ చేయాలని ఎక్కువ సమయం కేటాయిస్తాను. ఇప్పుడు నేను ప్రాధాన్యతలు, 
+   గడువులపై దృష్టి పెట్టి సమర్థవంతంగా పని చేయడం నేర్చుకుంటున్నాను.)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 4) Why Should We Hire You?
@@ -25,7 +26,8 @@
          Your organization’s values, focus on innovation, and employee-friendly environment really stood out to me. 
            I believe this would be a great place to start and build my career.”
                        (OR)
-   * I've Always Admired Your Company Commitment to Innovation & Quality. I Belive that your values align with my passion for continuous Learning & Improvement.
+   * I've Always Admired Your Company Commitment to Innovation & Quality. 
+   I Belive that your values align with my passion for continuous Learning & Improvement.
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 6) How do you handle multiple tasks or deadlines at the same time?
@@ -78,8 +80,8 @@
 -------------------------------------------------------------------------------------------------------------------------------------------------------
 
 15) How do you motivate your team especially during high pressure situations
-    "During high-pressure situations, I keep the team focused by breaking tasks into manageable parts, setting clear priorities, and maintaining a positive mindset. 
-    I encourage and support my teammates, celebrate small wins.
+    "During high-pressure situations, I keep the team focused by breaking tasks into manageable parts, 
+    setting clear priorities, and maintaining a positive mindset. I encourage and support my teammates, celebrate small wins.
 -------------------------------------------------------------------------------------------------------------------------------------------------------
 
 16)  If you were a TL how do you support and motivate ?
