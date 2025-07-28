@@ -1,10 +1,8 @@
 1) Where Do You See YourSelf After 5 Years ?
-      I see my self in a LeaderShip Role Where I can Leverage My Technical Skills & Experience to Mentor Junior Developers.
+   I want To be A strong & Realiable Developers and lead project as an Manager, and be someone the team can depend on for smarter solutions
     ("రాబోయే ఐదు సంవత్సరాలలో, నేను ఒక బలమైన మరియు నమ్మకమైన డెవలపర్‌గా ఎదగాలని ఆశిస్తున్నాను, ప్రాజెక్టులను నాయకత్వం వహిస్తూ, బాధ్యత తీసుకుంటూ, 
 బృందాలను గైడ్ చేయగల వ్యక్తిగా మారాలని కోరుకుంటున్నాను.అలాగే, మేనేజ్మెంట్ బాధ్యతలు తీసుకోవాలనుకుంటున్నాను — నా బృందం నన్ను నమ్మదగినవాడిగా భావించి,
 తెలివైన, సమర్థవంతమైన పరిష్కారాలు మరియు స్పష్టమైన దిశను అందించగల నాయకుడిగా చూస్తే గర్వంగా ఉంటుంది.")
-                                           (OR)
-   I want To be A strong & Realiable Developers and lead project as an Manager, and be someone the team can depend on for smarter solutions
 -------------------------------------------------------------------------------------------------------------------------------------------------------
 2) What is Your Strengths?
   * I'm a Self Motivated Person, Quick Learner, and adaptable to new Environments.
