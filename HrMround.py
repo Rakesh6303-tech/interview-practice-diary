@@ -11,7 +11,7 @@
   
 3) what is Your Weakness?
   * Sometimes I focus too much on perfection, even when the work is already good enough. 
-    I'm learning to balance quality with efficiency by managing priorities and deadlines better."
+    I'm learning to balance this by focusing on deadlines and priorities."
    ( "కొన్నిసార్లు పనిని చాలా పర్ఫెక్ట్ చేయాలని ఎక్కువ సమయం కేటాయిస్తాను. ఇప్పుడు నేను ప్రాధాన్యతలు, 
    గడువులపై దృష్టి పెట్టి సమర్థవంతంగా పని చేయడం నేర్చుకుంటున్నాను.)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
