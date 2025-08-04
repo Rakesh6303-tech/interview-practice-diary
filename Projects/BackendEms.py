@@ -1,10 +1,10 @@
 Title : Employee Management System
 Technologies Used : 
-FrontEnd : React , Bootstrap
 Database : Sql, MySQL
 Backend : Java ,  Spring Boot
 Developer Tools : Intellij Idea
 APIS TESTING : PostMan
+
 ----------------------------------------------------------------------------------------------------------------------------------------------
 **Project Title: Employee Management System**
 
@@ -25,12 +25,6 @@ Through this project, I gained practical experience in **API development**, **CR
 --- I hosted the code on GitHub and tested all APIs using Postman. 
 This project helped me understand real-world backend development and database handling using Spring Boot.”
 -----------------------------------------------------------------------------------------------------------------------------------------
---- OPTIONAL--=----
-
-Optional (if they ask follow-up):
-
-> “If I had more time, I would add input validations, login authentication, and role-based access for better security.”
------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Challenges Faced During Project :
 
