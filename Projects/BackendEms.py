@@ -1,8 +1,10 @@
-
-
-
-
-
+Title : Employee Management System
+Technologies Used : 
+FrontEnd : React , Bootstrap
+Database : Sql, MySQL
+Backend : Java ,  Spring Boot
+Developer Tools : Intellij Idea
+APIS TESTING : PostMan
 ----------------------------------------------------------------------------------------------------------------------------------------------
 **Project Title: Employee Management System**
 
