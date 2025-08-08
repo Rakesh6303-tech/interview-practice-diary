@@ -16,7 +16,6 @@ It’s a **backend-focused web application** that allows organizations to manage
 I used **Spring Boot** with **Spring Data JPA** to interact with the MySQL database, enabling smooth data operations and API communication. 
   The APIs were thoroughly tested using **Postman** to ensure proper functionality and error handling.
 
-The application follows a **layered architecture** (Controller, Service, Repository), promoting modular code and scalability. 
     All employee data is securely stored and managed in a **MySQL** database.
 
 Through this project, I gained practical experience in **API development**, **CRUD operations**, **database connectivity**, 
