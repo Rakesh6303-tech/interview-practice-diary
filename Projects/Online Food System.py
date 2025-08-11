@@ -1,7 +1,7 @@
 
 About : My Project Name Is OFS. It is a Web Application . 
          I Build By using Java, Jdbc, Servlets, JSsP & MYSQL. 
-        It Handles Food Ordering with Features Like Restaurent Listings, USer Login,  & Cart.
+        It Handles Features Like Food ordering, Restaurent Listings, USer Login,  & Cart.
 -----------------------------------------------------------------------------------------------------------
           
 Technologies : 
