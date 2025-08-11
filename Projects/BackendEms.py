@@ -37,7 +37,7 @@ Challenges Faced During Project :
 
 Solution : 
 
-“While testing my Employee Management System in PostmanI got errors due to duplicate employee IDs. 
+“While testing my Employee Management System in Postman. I got errors due to duplicate employee IDs. 
     I solved it by adding unique constraints in MySQL.”
 // CREATE TABLE employees (
     id INT PRIMARY KEY AUTO_INCREMENT,
