@@ -35,19 +35,16 @@ Challenges Faced During Project :
 
 "What was the most difficult part of your project?"
 
+Solution : 
 
-One of the challenges I faced was a CORS error when testing my APIs through Postman or browser.
-The frontend wasn't able to access my backend.
+“While testing my Employee Management System in PostmanI got errors due to duplicate employee IDs. 
+    I solved it by adding unique constraints in MySQL.”
+// CREATE TABLE employees (
+    id INT PRIMARY KEY AUTO_INCREMENT,
+              or 
+“I added a unique constraint in the Entity so Hibernate generated it in the database automatically. 
+This ensures no duplicate entries are stored.”
 
-I researched and resolved it by adding the @CrossOrigin annotation in my Spring Boot controller, 
-which allowed cross-origin requests.
-
-
-
-Example
-While working on my Employee Management System backend project, I was testing my REST APIs using Postman. But when I later tried to connect those APIs with a basic frontend setup, I got a CORS policy error — the browser was blocking the request.
-
-I resolved it by adding the @CrossOrigin(origins = "*") annotation to my Spring Boot controller. This allowed requests from different domains.
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 
