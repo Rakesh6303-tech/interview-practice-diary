@@ -86,3 +86,7 @@
 
 16)  If you were a TL how do you support and motivate ?
      "As a team leader, I focus on three core areas to support and motivate my team: communication, ownership, and growth."
+------------------------------------------------------------------------------------------------------------------------------------------------
+17) what was your salary exceptions?
+     "As a fresher, I’m more focused on gaining practical experience and contributing to the team’s success.
+     I’m open to the company’s standard fresher package."
