@@ -80,8 +80,12 @@ I kept the team aligned through quick discussions, and we completed the project 
 **R:** We won the match and lifted the championship cup.
 ------------------------------------------------------------------------------------------------------------------------------------------------
 ## What is the biggest challenge you faced?
-   In my final year project . we faced technical issues near the deadline. I identified the problem , coordinated with my team, 
-    and worked extra hours to fix it and deliver on time. which taught me teamwork and problem-solving.
+##Tell me about a time your team faced an obstacle. What did you do to help?
+##Describe a challenge your team overcame together and your role in it.
+##Give an example of when your team’s success depended on your actions.
+ In my final year project , we faced technical issues near the deadline. 
+I identified the problem , coordinated with my team, and worked extra hours to fix it and deliver on time.
+which taught me teamwork and problem-solving.
 -------------------------------------------------------------------------------------------------------------------------------------------
 ## **6. Tell me about a time when a project deadline was tight and you had to coordinate with your team to meet it. 
             #How did you prioritize tasks?**
