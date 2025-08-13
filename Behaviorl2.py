@@ -42,7 +42,11 @@ Alright Rakesh — I’ll take your **teamwork & collaboration behavioral questi
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ##Can you share your past experience in team activities and how you contributed to the team’s success?
-మీ గత టీమ్ యాక్టివిటీస్ అనుభవం మరియు టీమ్ విజయానికి మీరు ఎలా సహకరించారో చెప్పండి.
+##Tell me about a time you worked in a team and your role in its success.
+##Describe a situation where you contributed to achieving a team goal.
+##Give me an example of when you worked with others to solve a problem.
+##How have you helped your team complete a challenging project?
+##Describe your role in a successful team project.
   
 **Answer (English):**
 In my final year project *Predicting Wine Quality*, I worked with three teammates. 
