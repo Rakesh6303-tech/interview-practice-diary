@@ -4,25 +4,33 @@ Alright Rakesh — I’ll take your **teamwork & collaboration behavioral questi
 **తెలుగులో:** మీరు ఒక టీమ్ ప్రాజెక్ట్‌లో పని చేసిన సమయం గురించి చెప్పండి. మీరు ఎలా సహకరించారు? ఫలితం ఏమిటి?
 
 **Answer (English):**
-**Situation:** During my Java Full Stack Developer training at TapAcademy, we had to create an Employee Management System as a group project.
+**Situation:** During my Java Full Stack Developer training at TapAcademy, 
+                 we had to create an Employee Management System as a group project.
 **Task:** My role was to handle the backend using Spring Boot and integrate it with the MySQL database.
-**Action:** I designed the REST APIs for CRUD operations, ensured proper database schema design, and coordinated with the frontend team to make sure data was fetched and displayed correctly.
-**Result:** We completed the project on time, the demo went smoothly, and our trainer appreciated our teamwork and clean code structure.
+**Action:** I designed the REST APIs for CRUD operations, ensured proper database schema design, 
+                 and coordinated with the frontend team to make sure data was fetched and displayed correctly.
+**Result:** We completed the project on time, the demo went smoothly, 
+                       and our trainer appreciated our teamwork and clean code structure.
 
 **Answer (Telugu):**
-**పరిస్థితి:** నా Java Full Stack Developer training సమయంలో TapAcademyలో, మేము Employee Management System అనే గ్రూప్ ప్రాజెక్ట్ చేయాల్సి వచ్చింది.
+**పరిస్థితి:** నా Java Full Stack Developer training సమయంలో TapAcademyలో, 
+              మేము Employee Management System అనే గ్రూప్ ప్రాజెక్ట్ చేయాల్సి వచ్చింది.
 **పని:** నా పాత్ర Spring Boot ఉపయోగించి backend development చేయడం మరియు MySQL database‌తో integrate చేయడం.
-**చర్య:** నేను CRUD operations కోసం REST APIs design చేసి, database schema సరైన విధంగా రూపొందించాను. Frontend టీమ్‌తో సమన్వయం చేసుకుని డేటా సరిగ్గా fetch అయి display అవుతున్నదని చూసుకున్నాను.
-**ఫలితం:** మేము ప్రాజెక్ట్‌ను సమయానికి పూర్తి చేశాము, demo చాలా బాగా జరిగింది, మా trainer మా teamwork మరియు clean code structure‌ను ప్రశంసించారు.
+**చర్య:** నేను CRUD operations కోసం REST APIs design చేసి, database schema సరైన విధంగా రూపొందించాను. 
+             Frontend టీమ్‌తో సమన్వయం చేసుకుని డేటా సరిగ్గా fetch అయి display అవుతున్నదని చూసుకున్నాను.
+**ఫలితం:** మేము ప్రాజెక్ట్‌ను సమయానికి పూర్తి చేశాము, demo చాలా బాగా జరిగింది, 
+                 మా trainer మా teamwork మరియు clean code structure‌ను ప్రశంసించారు.
 
 ---
 
 ### **2. Tell me about a time when you had to work with someone with a very different working style from yours. How did you handle it?*
 
 **Answer (English):**
-**Situation:** In the Online Food Application project, one teammate preferred to code quickly without much documentation, while I preferred proper documentation and clean structure.
+**Situation:** In the Online Food Application project, one teammate preferred to code quickly without much documentation, 
+                      while I preferred proper documentation and clean structure.
 **Task:** My goal was to ensure we maintained both speed and code quality.
-**Action:** I suggested a middle-ground approach — he could code quickly in the initial stage, and I would later document and refactor the code where necessary.
+**Action:** I suggested a middle-ground approach — he could code quickly in the initial stage, 
+               and I would later document and refactor the code where necessary.
 **Result:** This balance allowed us to meet deadlines without sacrificing maintainability. The team appreciated that compromise.
 
 **Answer (Telugu):**
@@ -36,8 +44,10 @@ Alright Rakesh — I’ll take your **teamwork & collaboration behavioral questi
 మీ గత టీమ్ యాక్టివిటీస్ అనుభవం మరియు టీమ్ విజయానికి మీరు ఎలా సహకరించారో చెప్పండి.
   
 **Answer (English):**
-In my final year project *Predicting Wine Quality*, I worked with three teammates. I handled data preprocessing and model building, 
-and also suggested using Random Forest, which improved our accuracy. I kept the team aligned through quick discussions, and we completed the project successfully on time.
+In my final year project *Predicting Wine Quality*, I worked with three teammates. 
+I handled data preprocessing and model building, 
+and also suggested using Random Forest, which improved our accuracy. 
+I kept the team aligned through quick discussions, and we completed the project successfully on time.
 
 **Answer (Telugu):**
 నా ఫైనల్ ఇయర్ ప్రాజెక్ట్ *Predicting Wine Quality* లో ముగ్గురు సహచరులతో పని చేసాను. నేను డేటా ప్రీప్రాసెసింగ్, మోడల్ బిల్డింగ్ బాధ్యతలు తీసుకొని,
