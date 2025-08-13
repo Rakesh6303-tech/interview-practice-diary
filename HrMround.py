@@ -90,3 +90,7 @@
 17) what was your salary exceptions?
      "As a fresher, I’m more focused on gaining practical experience and contributing to the team’s success.
      I’m open to the company’s standard fresher package."
+---------------------------------------------------------------------------------------------------------------------------------------------
+18) how would you rate your self from 1-10 or 1-5 ?
+   I would like to  rate my self as 8 . because no one is perfect , 
+   And there's is always scope in learning and improvement and i feel that continous learning fundamental part of professional and personality.
