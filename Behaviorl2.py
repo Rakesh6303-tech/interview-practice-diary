@@ -1,4 +1,5 @@
 Alright Rakesh — I’ll take your **teamwork & collaboration behavioral questions**, and for each, I’ll give you:
+
 ### **1. Describe a time when you worked on a team project. How did you contribute, and what was the result?**
 
 **తెలుగులో:** మీరు ఒక టీమ్ ప్రాజెక్ట్‌లో పని చేసిన సమయం గురించి చెప్పండి. మీరు ఎలా సహకరించారు? ఫలితం ఏమిటి?
@@ -21,7 +22,7 @@ Alright Rakesh — I’ll take your **teamwork & collaboration behavioral questi
 **ఫలితం:** మేము ప్రాజెక్ట్‌ను సమయానికి పూర్తి చేశాము, demo చాలా బాగా జరిగింది, 
                  మా trainer మా teamwork మరియు clean code structure‌ను ప్రశంసించారు.
 
----
+--------------------------------------------------------------------------------------------------------------------------------------------
 
 ### **2. Tell me about a time when you had to work with someone with a very different working style from yours. How did you handle it?*
 
@@ -38,7 +39,7 @@ Alright Rakesh — I’ll take your **teamwork & collaboration behavioral questi
 **పని:** speed మరియు code quality రెండూ maintain చేయాలి.
 **చర్య:** మొదట ఆయన త్వరగా code చేయడానికి అనుమతించి, తర్వాత నేను documentation చేసి, అవసరమైన చోట code refactor చేసాను.
 **ఫలితం:** ఇలా చేసి deadlines miss కాకుండా, maintainable code సాధించాము. టీమ్ compromise‌ని మెచ్చుకుంది.
-
+----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ##Can you share your past experience in team activities and how you contributed to the team’s success?
 మీ గత టీమ్ యాక్టివిటీస్ అనుభవం మరియు టీమ్ విజయానికి మీరు ఎలా సహకరించారో చెప్పండి.
@@ -52,40 +53,41 @@ I kept the team aligned through quick discussions, and we completed the project 
 **Answer (Telugu):**
 నా ఫైనల్ ఇయర్ ప్రాజెక్ట్ *Predicting Wine Quality* లో ముగ్గురు సహచరులతో పని చేసాను. నేను డేటా ప్రీప్రాసెసింగ్, మోడల్ బిల్డింగ్ బాధ్యతలు తీసుకొని,
 రాండమ్ ఫారెస్ట్ ఉపయోగించాలని సూచించాను, దీని వల్ల యాక్యూరసీ మెరుగైంది. చిన్న మీటింగ్స్ ద్వారా టీమ్‌ను కలిపి ఉంచి, ప్రాజెక్ట్‌ను సమయానికి విజయవంతంగా పూర్తి చేసాము.
-
+------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## **3. Give me an example of a time when you supported a teammate who was struggling. What did you do, and what was the outcome?**
 
 **S:** In my Skillzire internship, a teammate struggled with SQL query optimization.
 **T:** We had to deliver the module by the end of the week.
 **A:** I sat with them after hours, explained indexing and joins, and helped rewrite the queries.
 **R:** The module performance improved, and we met the deadline successfully.
-
+----------------------------------------------------------------------------------------------------------------------------------------------
 ## **4. Describe a situation where you disagreed with a teammate. How did you resolve the disagreement?**
 
 **S:** While building the Online Food App, there was a disagreement about the payment module design.
 **T:** We had to finalize the approach quickly to proceed.
 **A:** I proposed listing pros and cons of each design, and we decided based on scalability and security.
 **R:** The chosen design worked well, and the discussion improved our mutual respect.
-
-## **5. Have you ever had to take on a leadership role unexpectedly? What did you do?**
+---------------------------------------------------------------------------------------------------------------------------------------------------
+##- **5. Have you ever had to take on a leadership role unexpectedly? What did you do?**
 
 **S:** In my football championship team, our captain got injured before the final match.
 **T:** I had to lead the team on short notice.
 **A:** I motivated the team, adjusted player positions based on strengths, and focused on team coordination.
 **R:** We won the match and lifted the championship cup.
-
+------------------------------------------------------------------------------------------------------------------------------------------------
 ## What is the biggest challenge you faced?
    In my final year project . we faced technical issues near the deadline. I identified the problem , coordinated with my team, 
     and worked extra hours to fix it and deliver on time. which taught me teamwork and problem-solving.
-
-## **6. Tell me about a time when a project deadline was tight and you had to coordinate with your team to meet it. How did you prioritize tasks?**
+-------------------------------------------------------------------------------------------------------------------------------------------
+## **6. Tell me about a time when a project deadline was tight and you had to coordinate with your team to meet it. 
+            #How did you prioritize tasks?**
 
 **S:** During my Edunet internship, we had to deliver a front-end module in one week.
 **T:** The design and development both had to be completed quickly.
 **A:** We broke the work into smaller tasks, assigned them based on strengths, and used Trello to track progress.
 **R:** We completed the project two days early with no major bugs.
 
----
+----------------------------------------------------------------------------------------------------------------------------------------------
 
 ## **7. Share an example of when you gave or received constructive feedback in a team setting. How did you handle it?**
 
@@ -94,7 +96,7 @@ I kept the team aligned through quick discussions, and we completed the project 
 **A:** I accepted the feedback positively and started adding clear comments and README files.
 **R:** My team found it much easier to understand and reuse my code.
 
----
+---------------------------------------------------------------------------------------------------------------------------------------------
 
 ## **8. Describe a time when your team’s success depended on clear communication. What steps did you take to ensure understanding?**
 English:
@@ -108,7 +110,7 @@ S: Predicting Wine Quality ప్రాజెక్ట్‌లో మేము 
 T: డేటా ప్రీప్రాసెసింగ్, మోడల్ పారామీటర్స్ ఒకేలా ఉండాలి.
 A: నేను షేర్డ్ గూగుల్ షీట్ క్రియేట్ చేసి, ప్రతిరోజూ చిన్న మీటింగ్స్ పెట్టాను.
 R: దాంతో తేడాలు రాకుండా, ఫైనల్ మోడల్ సజావుగా రన్ అయ్యింది.
-
+-----------------------------------------------------------------------------------------------------------------------------------------------
 ## **9. Tell me about a time when you adapted your role to meet the team’s needs. What happened, and what did you learn?**
 
 English:
@@ -122,13 +124,19 @@ S: Predicting Wine Quality ప్రాజెక్ట్‌లో మోడల�
 T: డెడ్‌లైన్ వాయిదా వేయలేము.
 A: నేను వెంటనే ట్యూనింగ్ టెక్నిక్స్ నేర్చుకుని మోడల్‌ను ఆప్టిమైజ్ చేసాను.
 R: సమయానికి సమర్పించాం, అలాగే నా రోల్‌కి మించి పనిచేసే నమ్మకం వచ్చింది.
-
+---------------------------------------------------------------------------------------------------------------------------------------------
 ## **10. Have you ever worked with a difficult team member? How did you maintain professionalism and keep the project moving?**
+English:
+S: During a college cultural event, one volunteer often missed deadlines.
+T: This was affecting stage preparation.
+A: I politely reminded him of timelines, split his tasks into smaller ones, and offered help where needed.
+R: Work was back on track, and the event went smoothly.
 
-**S:** In my part-time hotel job, one co-worker often missed their shifts.
-**T:** It affected service quality and team workload.
-**A:** I discussed the issue politely, offered to swap shifts occasionally, and informed the supervisor when needed.
-**R:** The situation improved, and our service ratings went up.
+Telugu:
+S: కాలేజ్ కల్చరల్ ఈవెంట్‌లో ఒక వాలంటీర్ తరచుగా డెడ్‌లైన్‌లు మిస్ చేసేవాడు.
+T: దీని వల్ల స్టేజ్ ప్రిపరేషన్ దెబ్బతింటోంది.
+A: నేను టైమ్‌లైన్‌ల గురించి సాఫ్ట్‌గా రిమైండ్ చేసి, పనిని చిన్న టాస్కులుగా విభజించి, అవసరమైతే సహాయం చేశాను.
+R: పని మళ్లీ ట్రాక్‌లోకి వచ్చి, ఈవెంట్ సక్సెస్‌ఫుల్‌గా జరిగింది.
 
 
 
