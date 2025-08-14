@@ -18,7 +18,16 @@ How To End With HR Round?
   * I Really Enjoyed our Conversation & I'm Genuinely excited about the opportunity.
   * I look Forward to hearing From You !
 ---------------------------------------------------------------------------------------------------------------------------------------------------
-1) Where Do You See YourSelf After 5 Years ?
+ **1. Describe a time when you worked on a team project. How did you contribute, and what was the result?**
+
+**Answer (English):**
+**Situation:** During my final year of B.Tech, we worked on a project to predict wine quality using machine learning.
+**Task:** My responsibility was to handle the data preprocessing and train the model to achieve high accuracy.
+**Action:** I collaborated closely with teammates, cleaned and normalized the dataset, selected the best algorithm, 
+              and shared progress updates in every meeting to ensure alignment.
+**Result:** Our project achieved over 90% accuracy, and it was well-received during our final presentation.
+------------------------------------------------------------------------------------------------------------------------------------------------
+ 1) Where Do You See YourSelf After 5 Years ?
 "In the next five years, I aim to become a strong and reliable developer, take on leadership responsibilities, 
 and eventually manage projects. I want to be someone my team can depend on for smart and effective solutions.
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -39,9 +48,6 @@ and eventually manage projects. I want to be someone my team can depend on for s
    * As a fresher, I’m looking for a company that supports learning and development. 
          Your organization’s values, focus on innovation, and employee-friendly environment really stood out to me. 
            I believe this would be a great place to start and build my career.”
-                       (OR)
-   * I've Always Admired Your Company Commitment to Innovation & Quality. 
-   I Belive that your values align with my passion for continuous Learning & Improvement.
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 6) How do you handle multiple tasks or deadlines at the same time?
@@ -108,14 +114,7 @@ and eventually manage projects. I want to be someone my team can depend on for s
 18) how would you rate your self from 1-10 or 1-5 ?
    I would like to  rate my self as 8 . because no one is perfect,And there's is always scope in learning and improvement
    and i feel that continous learning fundamental part of professional and personality.
-------------------------------------------------------------------------------------------------------------------------------------------------
-### **1. Describe a time when you worked on a team project. How did you contribute, and what was the result?**
 
-**Answer (English):**
-**Situation:** During my final year of B.Tech, we worked on a project to predict wine quality using machine learning.
-**Task:** My responsibility was to handle the data preprocessing and train the model to achieve high accuracy.
-**Action:** I collaborated closely with teammates, cleaned and normalized the dataset, selected the best algorithm, and shared progress updates in every meeting to ensure alignment.
-**Result:** Our project achieved over 90% accuracy, and it was well-received during our final presentation.
 --------------------------------------------------------------------------------------------------------------------------------------------
 
 ### **2. Tell me about a time when you had to work with someone with a very different working style from yours. How did you handle it?*
