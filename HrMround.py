@@ -83,7 +83,7 @@ and eventually manage projects. I want to be someone my team can depend on for s
     Time Management I was able the Deadline Successully.
 -------------------------------------------------------------------------------------------------------------------------------------------------------
 
-12) "How do you handle failure?"
+12) How do you handle failure?
     I treat failure as a learning step. I quickly analyze the cause, take responsibility, and work on improving.
     This approach helps me grow stronger and avoid repeating the same mistakes.
 
