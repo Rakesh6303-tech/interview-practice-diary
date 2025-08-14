@@ -1,8 +1,6 @@
 1) Where Do You See YourSelf After 5 Years ?
-   I want To be A strong & Realiable Developers and lead project as an Manager, and be someone the team can depend on for smarter solutions
-    ("రాబోయే ఐదు సంవత్సరాలలో, నేను ఒక బలమైన మరియు నమ్మకమైన డెవలపర్‌గా ఎదగాలని ఆశిస్తున్నాను, ప్రాజెక్టులను నాయకత్వం వహిస్తూ, బాధ్యత తీసుకుంటూ, 
-బృందాలను గైడ్ చేయగల వ్యక్తిగా మారాలని కోరుకుంటున్నాను.అలాగే, మేనేజ్మెంట్ బాధ్యతలు తీసుకోవాలనుకుంటున్నాను — నా బృందం నన్ను నమ్మదగినవాడిగా భావించి,
-తెలివైన, సమర్థవంతమైన పరిష్కారాలు మరియు స్పష్టమైన దిశను అందించగల నాయకుడిగా చూస్తే గర్వంగా ఉంటుంది.")
+"In the next five years, I aim to become a strong and reliable developer, take on leadership responsibilities, 
+and eventually manage projects. I want to be someone my team can depend on for smart and effective solutions.
 -------------------------------------------------------------------------------------------------------------------------------------------------------
 2) What is Your Strengths?
   * I'm a Self Motivated Person, Quick Learner, and adaptable to new Environments.
@@ -92,5 +90,5 @@
      I’m open to the company’s standard fresher package."
 ---------------------------------------------------------------------------------------------------------------------------------------------
 18) how would you rate your self from 1-10 or 1-5 ?
-   I would like to  rate my self as 8 . because no one is perfect , 
-   And there's is always scope in learning and improvement and i feel that continous learning fundamental part of professional and personality.
+   I would like to  rate my self as 8 . because no one is perfect,And there's is always scope in learning and improvement
+   and i feel that continous learning fundamental part of professional and personality.
