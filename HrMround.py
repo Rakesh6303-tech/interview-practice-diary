@@ -1,19 +1,16 @@
 1) Where Do You See YourSelf After 5 Years ?
 "In the next five years, I aim to become a strong and reliable developer, take on leadership responsibilities, 
 and eventually manage projects. I want to be someone my team can depend on for smart and effective solutions.
--------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------------
 2) What is Your Strengths?
   * I'm a Self Motivated Person, Quick Learner, and adaptable to new Environments.
   //* Im very much confident &  Dedicated to My work and I have more Patience.
--------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------------
   
 3) what is Your Weakness?
   * Sometimes I focus too much on perfection, even when the work is already good enough. 
     I'm learning to balance this by focusing on deadlines and priorities."
-   ( "కొన్నిసార్లు పనిని చాలా పర్ఫెక్ట్ చేయాలని ఎక్కువ సమయం కేటాయిస్తాను. ఇప్పుడు నేను ప్రాధాన్యతలు, 
-   గడువులపై దృష్టి పెట్టి సమర్థవంతంగా పని చేయడం నేర్చుకుంటున్నాను.)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 4) Why Should We Hire You?
   * As Im a Fresher with Analytical Skills & Theoretical Knowledge and Good Communication Skills. 
       IF you Hire Me I can Show My Skills Towards My Work. I think this is the best Platform to start My Carrrer
@@ -92,3 +89,115 @@ and eventually manage projects. I want to be someone my team can depend on for s
 18) how would you rate your self from 1-10 or 1-5 ?
    I would like to  rate my self as 8 . because no one is perfect,And there's is always scope in learning and improvement
    and i feel that continous learning fundamental part of professional and personality.
+------------------------------------------------------------------------------------------------------------------------------------------------
+### **1. Describe a time when you worked on a team project. How did you contribute, and what was the result?**
+
+**Answer (English):**
+**Situation:** During my Java Full Stack Developer training at TapAcademy, 
+                 we had to create an Employee Management System as a group project.
+**Task:** My role was to handle the backend using Spring Boot and integrate it with the MySQL database.
+**Action:** I designed the REST APIs for CRUD operations, ensured proper database schema design, 
+                 and coordinated with the frontend team to make sure data was fetched and displayed correctly.
+**Result:** We completed the project on time, the demo went smoothly, 
+                       and our trainer appreciated our teamwork and clean code structure.
+
+--------------------------------------------------------------------------------------------------------------------------------------------
+
+### **2. Tell me about a time when you had to work with someone with a very different working style from yours. How did you handle it?*
+
+**Answer (English):**
+**Situation:** In the Online Food Application project, one teammate preferred to code quickly without much documentation, 
+                      while I preferred proper documentation and clean structure.
+**Task:** My goal was to ensure we maintained both speed and code quality.
+**Action:** I suggested a middle-ground approach — he could code quickly in the initial stage, 
+               and I would later document and refactor the code where necessary.
+**Result:** This balance allowed us to meet deadlines without sacrificing maintainability. The team appreciated that compromise.
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+##Can you share your past experience in team activities and how you contributed to the team’s success?
+##Tell me about a time you worked in a team and your role in its success.
+##Describe a situation where you contributed to achieving a team goal.
+##Give me an example of when you worked with others to solve a problem.
+##How have you helped your team complete a challenging project?
+##Describe your role in a successful team project.
+  
+**Answer (English):**
+In my final year project *Predicting Wine Quality*, I worked with three teammates. 
+I handled data preprocessing and model building, 
+and also suggested using Random Forest, which improved our accuracy. 
+I kept the team aligned through quick discussions, and we completed the project successfully on time.
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+## **3. Give me an example of a time when you supported a teammate who was struggling. What did you do, and what was the outcome?**
+
+**S:** In my Skillzire internship, a teammate struggled with SQL query optimization.
+**T:** We had to deliver the module by the end of the week.
+**A:** I sat with them after hours, explained indexing and joins, and helped rewrite the queries.
+**R:** The module performance improved, and we met the deadline successfully.
+----------------------------------------------------------------------------------------------------------------------------------------------
+## **4. Describe a situation where you disagreed with a teammate. How did you resolve the disagreement?**
+
+**S:** While building the Online Food App, there was a disagreement about the payment module design.
+**T:** We had to finalize the approach quickly to proceed.
+**A:** I proposed listing pros and cons of each design, and we decided based on scalability and security.
+**R:** The chosen design worked well, and the discussion improved our mutual respect.
+---------------------------------------------------------------------------------------------------------------------------------------------------
+##- **5. Have you ever had to take on a leadership role unexpectedly? What did you do?**
+
+**S:** In my football championship team, our captain got injured before the final match.
+**T:** I had to lead the team on short notice.
+**A:** I motivated the team, adjusted player positions based on strengths, and focused on team coordination.
+**R:** We won the match and lifted the championship cup.
+------------------------------------------------------------------------------------------------------------------------------------------------
+## What is the biggest challenge you faced?
+##Tell me about a time your team faced an obstacle. What did you do to help?
+##Describe a challenge your team overcame together and your role in it.
+##Give an example of when your team’s success depended on your actions.
+
+ In my final year project , we faced technical issues near the deadline. 
+I identified the problem , coordinated with my team, and worked extra hours to fix it and deliver on time.
+which taught me teamwork and problem-solving.
+-------------------------------------------------------------------------------------------------------------------------------------------
+## **6. Tell me about a time when a project deadline was tight and you had to coordinate with your team to meet it. 
+            #How did you prioritize tasks?**
+
+**S:** During my Edunet internship, we had to deliver a front-end module in one week.
+**T:** The design and development both had to be completed quickly.
+**A:** We broke the work into smaller tasks, assigned them based on strengths, and used Trello to track progress.
+**R:** We completed the project two days early with no major bugs.
+
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+## **7. Share an example of when you gave or received constructive feedback in a team setting. How did you handle it?**
+
+**S:** In my TapAcademy course, my mentor suggested I improve my code documentation.
+**T:** I needed to make my work more readable for others.
+**A:** I accepted the feedback positively and started adding clear comments and README files.
+**R:** My team found it much easier to understand and reuse my code.
+
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+## **8. Describe a time when your team’s success depended on clear communication. What steps did you take to ensure understanding?**
+English:
+S: In my Predicting Wine Quality project, we worked on different modules.
+T: We had to keep data preprocessing and model parameters consistent.
+A: I created a shared Google Sheet and held quick daily syncs.
+R: This avoided mismatches and made our final model run smoothly.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------
+## **9. Tell me about a time when you adapted your role to meet the team’s needs. What happened, and what did you learn?**
+
+English:
+S: In my Predicting Wine Quality project, a teammate handling model tuning fell sick.
+T: We couldn’t delay the deadline.
+A: I quickly learned the tuning techniques and optimized the model.
+R: We submitted on time, and I gained confidence in stepping beyond my usual role.
+
+---------------------------------------------------------------------------------------------------------------------------------------------
+## **10. Have you ever worked with a difficult team member? How did you maintain professionalism and keep the project moving?**
+English:
+S: During a college cultural event, one volunteer often missed deadlines.
+T: This was affecting stage preparation.
+A: I politely reminded him of timelines, split his tasks into smaller ones, and offered help where needed.
+R: Work was back on track, and the event went smoothly.
+
+
