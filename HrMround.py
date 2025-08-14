@@ -102,14 +102,10 @@ and eventually manage projects. I want to be someone my team can depend on for s
 ### **1. Describe a time when you worked on a team project. How did you contribute, and what was the result?**
 
 **Answer (English):**
-**Situation:** During my Java Full Stack Developer training at TapAcademy, 
-                 we had to create an Employee Management System as a group project.
-**Task:** My role was to handle the backend using Spring Boot and integrate it with the MySQL database.
-**Action:** I designed the REST APIs for CRUD operations, ensured proper database schema design, 
-                 and coordinated with the frontend team to make sure data was fetched and displayed correctly.
-**Result:** We completed the project on time, the demo went smoothly, 
-                       and our trainer appreciated our teamwork and clean code structure.
-
+**Situation:** During my final year of B.Tech, we worked on a project to predict wine quality using machine learning.
+**Task:** My responsibility was to handle the data preprocessing and train the model to achieve high accuracy.
+**Action:** I collaborated closely with teammates, cleaned and normalized the dataset, selected the best algorithm, and shared progress updates in every meeting to ensure alignment.
+**Result:** Our project achieved over 90% accuracy, and it was well-received during our final presentation.
 --------------------------------------------------------------------------------------------------------------------------------------------
 
 ### **2. Tell me about a time when you had to work with someone with a very different working style from yours. How did you handle it?*
