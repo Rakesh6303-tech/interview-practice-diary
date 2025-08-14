@@ -18,7 +18,7 @@ How To End With HR Round?
   * I Really Enjoyed our Conversation & I'm Genuinely excited about the opportunity.
   * I look Forward to hearing From You !
 ---------------------------------------------------------------------------------------------------------------------------------------------------
- **1. Describe a time when you worked on a team project. How did you contribute, and what was the result?**
+ ##**1. Describe a time when you worked on a team project. How did you contribute, and what was the result?**
 
 **Answer (English):**
 **Situation:** During my final year of B.Tech, we worked on a project to predict wine quality using machine learning.
@@ -26,8 +26,46 @@ How To End With HR Round?
 **Action:** I collaborated closely with teammates, cleaned and normalized the dataset, selected the best algorithm, 
               and shared progress updates in every meeting to ensure alignment.
 **Result:** Our project achieved over 90% accuracy, and it was well-received during our final presentation.
-------------------------------------------------------------------------------------------------------------------------------------------------
- 1) Where Do You See YourSelf After 5 Years ?
+
+## What is the biggest challenge you faced?
+##Tell me about a time your team faced an obstacle. What did you do to help?
+##Describe a challenge your team overcame together and your role in it.
+##Give an example of when your team’s success depended on your actions.
+
+In my final year project , we faced technical issues near the deadline. 
+I identified the problem , coordinated with my team, and worked extra hours to fix it and deliver on time.
+which taught me teamwork and problem-solving. 
+
+## **6. Tell me about a time when a project deadline was tight and you had to coordinate with your team to meet it. 
+            #How did you prioritize tasks?**
+
+**S:** During my Edunet internship, we had to deliver a front-end module in one week.
+**T:** The design and development both had to be completed quickly.
+**A:** We broke the work into smaller tasks, assigned them based on strengths
+**R:** We completed the project two days early with no major bugs.
+
+##Can you share your past experience in team activities and how you contributed to the team’s success?
+##Tell me about a time you worked in a team and your role in its success.
+##Describe a situation where you contributed to achieving a team goal.
+##Give me an example of when you worked with others to solve a problem.
+##How have you helped your team complete a challenging project?
+##Describe your role in a successful team project.
+  
+In my final year project *Predicting Wine Quality*, I worked with three teammates. 
+I handled data preprocessing and model building, 
+and also suggested using Random Forest, which improved our accuracy. 
+I kept the team aligned through quick discussions, and we completed the project successfully on time.
+
+## **3. Give me an example of a time when you supported a teammate who was struggling. What did you do, and what was the outcome?**
+
+S: During the Online Food System project, one teammate struggled to connect the application
+       with the MySQL database for fetching restaurant menus.
+T: We needed to integrate the backend with the frontend before the final demo the next day.
+A: I guided them step-by-step on configuring the JDBC connection, writing SQL queries, 
+      and handling exceptions in Servlets. I also stayed late to help test the integration.
+R: The menu display feature worked perfectly in the demo, and the client appreciated the real-time data retrieval from the database.
+-----------------------------------------------------------------------------------------------------------------------------------------------
+1) Where Do You See YourSelf After 5 Years ?
 "In the next five years, I aim to become a strong and reliable developer, take on leadership responsibilities, 
 and eventually manage projects. I want to be someone my team can depend on for smart and effective solutions.
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -128,25 +166,9 @@ and eventually manage projects. I want to be someone my team can depend on for s
 **Result:** This balance allowed us to meet deadlines without sacrificing maintainability. The team appreciated that compromise.
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
 
-##Can you share your past experience in team activities and how you contributed to the team’s success?
-##Tell me about a time you worked in a team and your role in its success.
-##Describe a situation where you contributed to achieving a team goal.
-##Give me an example of when you worked with others to solve a problem.
-##How have you helped your team complete a challenging project?
-##Describe your role in a successful team project.
-  
-**Answer (English):**
-In my final year project *Predicting Wine Quality*, I worked with three teammates. 
-I handled data preprocessing and model building, 
-and also suggested using Random Forest, which improved our accuracy. 
-I kept the team aligned through quick discussions, and we completed the project successfully on time.
-------------------------------------------------------------------------------------------------------------------------------------------------------------
-## **3. Give me an example of a time when you supported a teammate who was struggling. What did you do, and what was the outcome?**
 
-**S:** In my Skillzire internship, a teammate struggled with SQL query optimization.
-**T:** We had to deliver the module by the end of the week.
-**A:** I sat with them after hours, explained indexing and joins, and helped rewrite the queries.
-**R:** The module performance improved, and we met the deadline successfully.
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ----------------------------------------------------------------------------------------------------------------------------------------------
 ## **4. Describe a situation where you disagreed with a teammate. How did you resolve the disagreement?**
 
@@ -155,29 +177,12 @@ I kept the team aligned through quick discussions, and we completed the project 
 **A:** I proposed listing pros and cons of each design, and we decided based on scalability and security.
 **R:** The chosen design worked well, and the discussion improved our mutual respect.
 ---------------------------------------------------------------------------------------------------------------------------------------------------
-##- **5. Have you ever had to take on a leadership role unexpectedly? What did you do?**
+## 5. Have you ever had to take on a leadership role unexpectedly? What did you do?**
 
 **S:** In my football championship team, our captain got injured before the final match.
 **T:** I had to lead the team on short notice.
 **A:** I motivated the team, adjusted player positions based on strengths, and focused on team coordination.
 **R:** We won the match and lifted the championship cup.
-------------------------------------------------------------------------------------------------------------------------------------------------
-## What is the biggest challenge you faced?
-##Tell me about a time your team faced an obstacle. What did you do to help?
-##Describe a challenge your team overcame together and your role in it.
-##Give an example of when your team’s success depended on your actions.
-
- In my final year project , we faced technical issues near the deadline. 
-I identified the problem , coordinated with my team, and worked extra hours to fix it and deliver on time.
-which taught me teamwork and problem-solving.
--------------------------------------------------------------------------------------------------------------------------------------------
-## **6. Tell me about a time when a project deadline was tight and you had to coordinate with your team to meet it. 
-            #How did you prioritize tasks?**
-
-**S:** During my Edunet internship, we had to deliver a front-end module in one week.
-**T:** The design and development both had to be completed quickly.
-**A:** We broke the work into smaller tasks, assigned them based on strengths, and used Trello to track progress.
-**R:** We completed the project two days early with no major bugs.
 
 ----------------------------------------------------------------------------------------------------------------------------------------------
 
