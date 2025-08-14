@@ -1,12 +1,18 @@
-Why do you want to join Deutsche Bank?
+## Why do you want to join Deutsche Bank?
 "I want to join Deutsche Bank because it’s a leading global financial institution known for innovation and a strong work culture.
 As a fresher, I see it as the right place to learn, grow, and contribute meaningfully. 
 I’m inspired by its commitment to technology-driven banking and believe my skills can support its mission."
 
-About Company:
+## About Company:
 *"Deutsche Bank is a top global financial institution with a strong presence in over 55 countries.
 It’s recognized for combining banking expertise with innovative technology to deliver world-class solutions. 
 I value its reputation for integrity, client focus, and commitment to shaping the future of finance."*
+
+## if hr ask do yuo have any questions?
+   Can you tell me about the growth and learning opportunities for freshers in this role?
+   How does Deutsche Bank encourage continuous learning and skill development?
+   Could you tell me more about the work culture at Deutsche Bank?
+   What are the next steps in the interview process?
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 1) Where Do You See YourSelf After 5 Years ?
 "In the next five years, I aim to become a strong and reliable developer, take on leadership responsibilities, 
@@ -67,10 +73,10 @@ and eventually manage projects. I want to be someone my team can depend on for s
     Time Management I was able the Deadline Successully.
 -------------------------------------------------------------------------------------------------------------------------------------------------------
 
-12)  Do You Have Any Questions?
-     Yes I'd Love to know more about the kind of projects the team is working? 
-     what a typical day looks like for a Developer in this Role?
-     How would you describe the company culture?
+12) "How do you handle failure?"
+    I treat failure as a learning step. I quickly analyze the cause, take responsibility, and work on improving.
+    This approach helps me grow stronger and avoid repeating the same mistakes.
+
 -------------------------------------------------------------------------------------------------------------------------------------------------------
 
 13) Are You Open To Relocation (or) Working in Shifts?
