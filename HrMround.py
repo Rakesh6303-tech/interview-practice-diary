@@ -10,7 +10,6 @@ I value its reputation for integrity, client focus, and commitment to shaping th
 
  Do You have any questions?
   * Can you tell me about the growth and learning opportunities for freshers in this role?
-  * How does Deutsche Bank encourage continuous learning and skill development?
   * Could you tell me more about the work culture at Deutsche Bank?
   * What are the next steps in the interview process?
 
