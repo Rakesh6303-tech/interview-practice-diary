@@ -1,12 +1,6 @@
- Why do you want to join Deutsche Bank?
-"I want to join Deutsche Bank because it’s a leading global financial institution known for innovation and a strong work culture.
-As a fresher, I see it as the right place to learn, grow, and contribute meaningfully. 
-I’m inspired by its commitment to technology-driven banking and believe my skills can support its mission."
+1) Why do you want to join Deutsche Bank?
+2) About Company:
 
- About Company:
-*"Deutsche Bank is a top global financial institution with a strong presence in over 55 countries.
-It’s recognized for combining banking expertise with innovative technology to deliver world-class solutions. 
-I value its reputation for integrity, client focus, and commitment to shaping the future of finance."*
 
  Do You have any questions?
   * Can you tell me about the growth and learning opportunities for freshers in this role?
