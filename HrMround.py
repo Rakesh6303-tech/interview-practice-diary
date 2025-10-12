@@ -1,7 +1,22 @@
-1) Why do you want to join Deutsche Bank?
-2) About Company:
+1) Why do you want to join Infosys?
+   I want to join Infosys because it’s a top IT company that gives good learning opportunities for freshers. 
+    I can improve my skills, work with talented people, and grow in my career while contributing to the company’s success.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+2) About Company :
+      Infosys is one of the top IT companies in India, providing software and consulting services worldwide.
+       It’s known for its excellent training, global projects, and use of new technologies like AI and Cloud.
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+3) Why Do You Want To Work For Our Company?
+   * As a fresher, I’m looking for a company that supports learning and development. 
+         Your organization’s values, focus on innovation, and employee-friendly environment really stood out to me. 
+           I believe this would be a great place to start and build my career.”
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+1) Where Do You See YourSelf After 5 Years ?
+"In the next five years, I want to become a strong and reliable developer, take on leadership responsibilities, 
+and eventually manage projects. I want to be someone my team can depend on for smart and effective solutions.
+-----------------------------------------------------------------------------------------------------------------------------------------------
  Do You have any questions?
   * Can you tell me about the growth and learning opportunities for freshers in this role?
   * Could you tell me more about the work culture at Deutsche Bank?
@@ -58,10 +73,7 @@ T: We needed to integrate the backend with the frontend before the final demo th
 A: I guided them step-by-step on configuring the JDBC connection, writing SQL queries, 
       and handling exceptions in Servlets. I also stayed late to help test the integration.
 R: The menu display feature worked perfectly in the demo, and the client appreciated the real-time data retrieval from the database.
------------------------------------------------------------------------------------------------------------------------------------------------
-1) Where Do You See YourSelf After 5 Years ?
-"In the next five years, I aim to become a strong and reliable developer, take on leadership responsibilities, 
-and eventually manage projects. I want to be someone my team can depend on for smart and effective solutions.
+
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
 2) What is Your Strengths?
   * I'm a Self Motivated Person, Quick Learner, and adaptable to new Environments.
@@ -74,12 +86,7 @@ and eventually manage projects. I want to be someone my team can depend on for s
 4) Why Should We Hire You?
   * As Im a Fresher with Analytical Skills & Theoretical Knowledge and Good Communication Skills. 
       IF you Hire Me I can Show My Skills Towards My Work. I think this is the best Platform to start My Carrrer
----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-5) Why Do You Want To Work For Our Company?
-   * As a fresher, I’m looking for a company that supports learning and development. 
-         Your organization’s values, focus on innovation, and employee-friendly environment really stood out to me. 
-           I believe this would be a great place to start and build my career.”
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 6) How do you handle multiple tasks or deadlines at the same time?
@@ -284,24 +291,6 @@ Answer (Telugu):
 
 > నేను ప్రశాంతంగా ఉండి, కొత్త పరిస్థితిని విశ్లేషించి, టాస్క్‌లను ప్రాధాన్యత ప్రకారం మార్చుకుంటాను. COVID-19 సమయంలో లాక్‌డౌన్‌ల వల్ల నా లెర్నింగ్ ప్లాన్ మార్చుకోవాల్సి వచ్చింది, కానీ నేను సక్సెస్‌ఫుల్‌గా అలవాటు పడ్డాను.
 
-
-
-
----
-
-5. What skills did you develop during the COVID-19 period that will help you in this role?
-
-COVID-19 సమయంలో మీరు నేర్చుకున్న నైపుణ్యాలు ఏవి, అవి ఈ రోల్‌లో ఎలా ఉపయోగపడతాయి?
-
-Answer (English):
-
-> I improved my self-discipline, time management, and ability to work independently. Technically, I strengthened my Java, Spring Boot, and MySQL skills, which are directly relevant to this role.
-
-
-
-Answer (Telugu):
-
-> నేను స్వీయ క్రమశిక్షణ, టైమ్ మేనేజ్‌మెంట్, స్వతంత్రంగా పనిచేయగల నైపుణ్యం పెంచుకున్నాను. టెక్నికల్‌గా, Java, Spring Boot, MySQL స్కిల్స్‌ని బలోపేతం చేశాను, ఇవి ఈ రోల్‌కి డైరెక్ట్‌గా ఉపయోగపడతాయి.
 
 
 
