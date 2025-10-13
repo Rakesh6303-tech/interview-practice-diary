@@ -9,7 +9,7 @@
 
 3) Why Do You Want To Work For Our Company?
    * As a fresher, I’m looking for a company that supports learning and development. 
-         Your organization’s values, focus on innovation, and employee-friendly environment really stood out to me. 
+         Your organization’s values, focus on innovation,
            I believe this would be a great place to start and build my career.”
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
