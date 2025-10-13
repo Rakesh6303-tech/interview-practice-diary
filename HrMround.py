@@ -16,10 +16,19 @@
 1) Where Do You See YourSelf After 5 Years ?
 "In the next five years, I want to become a strong and reliable developer, take on leadership responsibilities, 
 and eventually manage projects. 
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2) Suppose you have a task to complete in your project, 
+       but you want your team member to do it. How would you approach them?”
+Simple Answer:
+Firstly I’ll explain the work clearly to my Team Member — what to do and when to finish it.
+I’ll ask if they need any help and make sure they are comfortable with it.
+I’ll speak politely and trust them to do it well.
+Later, I’ll check the progress and appreciate their work after it’s done.
 -----------------------------------------------------------------------------------------------------------------------------------------------
  Do You have any questions?
   * Can you tell me about the growth and learning opportunities for freshers in this role?
-  * Could you tell me more about the work culture at Deutsche Bank?
+  * Could you tell me more about the work culture at infosys?
   * What are the next steps in the interview process?
 
 How To End With HR Round?
