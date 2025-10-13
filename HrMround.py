@@ -15,7 +15,7 @@
 
 1) Where Do You See YourSelf After 5 Years ?
 "In the next five years, I want to become a strong and reliable developer, take on leadership responsibilities, 
-and eventually manage projects. I want to be someone my team can depend on for smart and effective solutions.
+and eventually manage projects. 
 -----------------------------------------------------------------------------------------------------------------------------------------------
  Do You have any questions?
   * Can you tell me about the growth and learning opportunities for freshers in this role?
