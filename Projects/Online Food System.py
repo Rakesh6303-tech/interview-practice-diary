@@ -1,7 +1,9 @@
+About :
 
-About : My Project Name Is OFS. It is a Web Application . 
-         I Build By using Java, Jdbc, Servlets, JSsP & MYSQL. 
-        It Handles Features Like Food ordering, Restaurent Listings, USer Login,  & Cart.
+My project is an Online Food Delivery System developed using Java, J2EE, Servlets, JSP, and MySQL.
+It allows users to browse restaurants, view menus, add items to a cart, and place orders online.
+The backend manages the orders and updates their status in real-time.
+I used JDBC for database connectivity and Tomcat Server for deployment.
 -----------------------------------------------------------------------------------------------------------
           
 Technologies : 
@@ -42,12 +44,31 @@ Controller : In controller Layer  I've Placed Servlets
 Challenges (or) Issues in ur Project & Overcome
 I faced  some JDBC Issues, and fixed with Exception Handling
 ------------------------------------------------------------------------------------------------------------------------------------------
+2️⃣ What technologies did you use and why?
 
-Why Did You use this Technologies?
-MYSQL: is a opensource, light weight, & Integrates easily with Java Through JDBC.
-JSP: It allowed me to embed Java Directly into the web pages for Displaying Data From Backend (like menu items, user cart, etc)
-Servlets : is used to Handle Business Logic & HTTP Req (like adding items to cart, placing orders etc)
-Java : Java is robust, object-oriented, and perfect for Building Scalable Backend Logic.
+------> Java & J2EE: Core logic and web handling.
+
+------> Servlets: Handle client requests and responses.
+
+-------> JSP: Display dynamic web content.
+
+-------> JDBC: Connect Java code to MySQL database.
+
+-------> MySQL: Store restaurant, user, and order details.
+
+--------> HTML/CSS: Frontend design and layout.
+
+
+
+
+
+# Why Did You use this Technologies?
+# MYSQL: is a opensource, light weight, & Integrates easily with Java Through JDBC.
+# Servlets : is used to Handle Business Logic & HTTP Req (like adding items to cart, placing orders etc)
+# Java : Java is object-oriented, and perfect for Building Scalable Backend Logic.
+# JSP → A part of J2EE.
+# J2EE → A collection of technologies (including JSP, Servlets,  JDBC, etc.) to build enterprise apps.
+# JDBC : Java DataBase Connectivity. Basically It is a API which is used to connect Java Program to DB.
 -------------------------------------------------------------------------------------------------------------------------------------------
 
 How did you Implemnet user Authentication?
