@@ -12,7 +12,15 @@
          Your organization’s values, focus on innovation,
            I believe this would be a great place to start and build my career.”
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
+4) "I see you graduated in 2024. What were you doing after that?"
+                           (or)
+    "You completed your degree in 2024 — it’s been about a year, right? Can you explain what you did during that time?"
 
+After graduation, I joined a Java Full Stack course to improve my technical skills.
+Along with that, I worked part-time to manage my expenses — it helped me become more independent and responsible.
+After completing the course, I began attending interviews and working on small projects to strengthen my knowledge.
+
+---------------------------------------------------------------------------------------------------------------------------------------------------
 1) Where Do You See YourSelf After 5 Years ?
 "In the next five years, I want to become a strong and reliable developer, take on leadership responsibilities, 
 and eventually manage projects. 
