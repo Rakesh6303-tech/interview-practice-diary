@@ -1,5 +1,5 @@
 ---> About : 
-         My Project Title was PWQ with MLA. 
+         My Project Title was PWQ.
          The Main Goal was to predict wine Qualtiy Based on chemical Features using ML Models.
         It helps both producers and consumers by estimating wine quality before production or purchase.
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
