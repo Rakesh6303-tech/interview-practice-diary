@@ -1,8 +1,22 @@
----> About : My Project Title was PWQ with MLA. The Main Goal was to predict wine Qualtiy Based on chemical Features using ML Models. & It Helps producers & Consumers.
+---> About : 
+         My Project Title was PWQ with MLA. 
+         The Main Goal was to predict wine Qualtiy Based on chemical Features using ML Models.
+        It helps both producers and consumers by estimating wine quality before production or purchase.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
 ---> What is ur Role in ur Project?
-      I worked as the Backend Developer in My Team project 
-      My Responsibility Inclued: Preprocessing the DataSet: Using Python Libraries like Pandas & Numpy.
-      My Main tasks Included Data Preprocessing using python,Training & evaluating M.L.M / Like Random Forest,SVM, & KNN & Integrating the best performing model into a Backend Prediction System.
+            
+##Role :
+I worked as the backend developer in our team, where I handled data preprocessing, model training, 
+                                       and integrating the best ML model into a backend prediction system.”
+## How preprocessing?
+   Using Python Libraries like Pandas & Numpy.
+
+## Chemical Attributes
+Fixed Acidity , Volatile Acidity , Citric Acid, Residual Sugar  , Chlorides
+            
+Algorithms use :
+“We used different algorithms like Random Forest, SVM, and KNN — and Random Forest performed the best, so we finalized it for prediction.”
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
 ----> Scikit-Learn : is a powerful, open-source 'ML' Library for Python.It Provides Simple & Efficenet Tools for Data Mining, Data Preprocessing analysis etc.
 ----> Random Forest :  is a powerful 'MLA' used for classification & Regression Tasks.
 ----> WHY RF? High Accurancy , Handles large Datasets.
