@@ -1,7 +1,7 @@
 About :
 
 My project is an Online Food Delivery System developed using Java, J2EE, Servlets, JSP, and MySQL.
-It allows users to browse restaurants, view menus, add items to a cart, and place orders online.
+It allows users to view restaurants, view menus, add items to a cart, and place orders online.
 The backend manages the orders and updates their status.
 I used JDBC for database connectivity and Tomcat Server for deployment.
 -----------------------------------------------------------------------------------------------------------
