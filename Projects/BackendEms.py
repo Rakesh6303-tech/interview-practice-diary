@@ -139,7 +139,4 @@ In my project:
 **Q16. How can you improve this project in the future?**
 → I can add login and role-based access, pagination, a frontend using React or Angular, and deploy it on cloud platforms like AWS.
 
----
-
-Would you like me to give a **super-short version (one line each)** — useful when the interviewer asks quick questions?
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
