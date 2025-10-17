@@ -33,16 +33,20 @@ Firstly I’ll explain the work clearly to my Team Member — what to do and whe
 I’ll ask if they need any help and make sure they are comfortable with it.
 I’ll speak politely and trust them to do it well.
 Later, I’ll check the progress and appreciate their work after it’s done.
+
+3) Ai is there Why should i hire you?
+“AI is a useful tool, but it still needs people who know how to use it well. 
+ I can use my skills, ideas, and problem-solving ability to do things that AI can’t.
 -----------------------------------------------------------------------------------------------------------------------------------------------
  Do You have any questions?
   * Can you tell me about the growth and learning opportunities for freshers in this role?
   * Could you tell me more about the work culture at infosys?
   * What are the next steps in the interview process?
 
-How To End With HR Round?
-  * Thank You So Much for Your Time & For Sharing More About Company Role.
-  * I Really Enjoyed our Conversation & I'm Genuinely excited about the opportunity.
-  * I look Forward to hearing From You !
+#How To End With HR Round?
+ # * Thank You So Much for Your Time & For Sharing More About Company Role.
+ # * I Really Enjoyed our Conversation & I'm Genuinely excited about the opportunity.
+ # * I look Forward to hearing From You !
 ---------------------------------------------------------------------------------------------------------------------------------------------------
  ##**1. Describe a time when you worked on a team project. How did you contribute, and what was the result?**
 
