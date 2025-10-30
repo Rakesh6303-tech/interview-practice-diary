@@ -1,10 +1,8 @@
-1) Why do you want to join Infosys? or Why Infosys?
-   I want to join Infosys because it’s a top IT company that gives good learning opportunities for freshers. 
-    I can improve my skills, work with talented people.
+1) Why do you want to join abc? or Why abc?
+   
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 2) About Company :
-      Infosys is one of the top IT companies in India, providing software and consulting services worldwide.
-       It’s known for its excellent training, global projects, and use of new technologies like AI and Cloud.
+      
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 3) Why Do You Want To Work For Our Company?
