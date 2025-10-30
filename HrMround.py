@@ -37,9 +37,7 @@ Later, I’ll check the progress and appreciate their work after it’s done.
  I can use my skills, ideas, and problem-solving ability to do things that AI can’t.
 -----------------------------------------------------------------------------------------------------------------------------------------------
  Do You have any questions?
-  * Can you tell me about the growth and learning opportunities for freshers in this role?
-  * Could you tell me more about the work culture at infosys?
-  * What are the next steps in the interview process?
+  * 
 
 #How To End With HR Round?
  # * Thank You So Much for Your Time & For Sharing More About Company Role.
