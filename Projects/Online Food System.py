@@ -75,4 +75,16 @@ How did you Implemnet user Authentication?
 I Built LoginServlet to process login from Data, Queried MySQl with "select * from users where username=?" & stored valid users in sesssion.
 Faild logins redirected with an Error".
 ---------------------------------------------------------------------------------------------------------------------------------------------
+ Relationship for Tables.
+Tables : “I have designed 5 main tables in my online food delivery project.”
+1)User 2) Restaurant 3)Menu 4)Orders 5)OrderItems
+| Parent Table | Child Table | Relationship |
+| ------------ | ----------- | ------------ |
+| User         | Restaurant  | 1 : N        |
+| Restaurant   | Menu        | 1 : N        |
+| User         | Orders      | 1 : N        |
+| Restaurant   | Orders      | 1 : N        |
+| Orders       | OrderItems  | 1 : N        |
+| Menu         | OrderItems  | 1 : N        |
+
 
